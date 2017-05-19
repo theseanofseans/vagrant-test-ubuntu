@@ -8,7 +8,8 @@ git commit
 # create new repository on github.com
 # <URL> = quick setup HTTPS URL
 
-git remote add origin <URL>
+#git remote add origin <URL>
+git remote add origin https://github.com/theseanofseans/vagrant-test-ubuntu.git
 
 git status
 
